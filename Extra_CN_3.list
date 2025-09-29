@@ -1,5 +1,5 @@
 # 这里是咱自己维护的强制直连名单
 
 # Google
-DOMAIN,service.googleapis.cn
+DOMAIN,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
