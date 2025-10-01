@@ -1,5 +1,8 @@
 # 这里是咱自己维护的强制直连名单
 
+# PING0
+DOMAIN-SUFFIX,ping0.cc
+
 # Google
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
