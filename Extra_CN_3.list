@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,ping0.cc
 
 # Google
-# DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
 
