@@ -6,3 +6,7 @@ DOMAIN-SUFFIX,ping0.cc
 # Google
 DOMAIN-REGEX,sn-(2x3|ni5|j5o)[a-z0-9A-Z]+\.xn--ngstr-lra8j\.com
 DOMAIN-SUFFIX,googleapis.cn
+
+# DNSPod Private DNS
+DOMAIN-SUFFIX,durable0762.com
+DOMAIN-SUFFIX,delirium9599.com
